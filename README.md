@@ -1,0 +1,1 @@
+# UC-Shock-Proguard-Rules
